@@ -1,4 +1,8 @@
 {
   "news_title": "News April 2026",
-  "news_txt": "<ul><li>ERA5 daily soil moisture data is now available in the Climate Explorer complementing NOAA GRACE and SMAP soil moisture data. It provides volumetric soil water content (0–7 cm depth) at 0.1° resolution from January 2000 to present, sourced from the European Centre for Medium-Range Weather Forecasts (ECMWF).</li></ul>"
+  "news_txt": [
+    "<ul>",
+    "<li>ERA5 daily soil moisture data is now available in the Climate Explorer complementing NOAA GRACE and SMAP soil moisture data. It provides volumetric soil water content (0–7 cm depth) at 0.1° resolution from January 2000 to present, sourced from the European Centre for Medium-Range Weather Forecasts (ECMWF).</li>",
+    "<li>The Relative Oceanic Niño Index (RONI) is now available as an ENSO teleconnection index. RONI measures Niño 3.4 sea surface temperature anomalies relative to the broader tropical mean, providing a more climate-change-robust alternative to the traditional ONI. It was adopted by NOAA's Climate Prediction Center in February 2026 as the official ENSO monitoring index.</li>",
+    "</ul>"]
 }
