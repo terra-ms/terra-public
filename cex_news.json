@@ -1,7 +1,8 @@
 {
-  "news_title": "News June 2026",
+  "news_title": "News July 2026",
   "news_txt": [
     "<ul>",
+    "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New VIIRS NDVI dataset extends MODIS</strong> The MODIS mission has been discontinued and the NDVI product in Climate Explorer is being extended by the equivalent VIIRS NDVI data.</li>",
     "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New Insurance Information tab:</strong> Access, view and download insurance information directly in ClimateExplorer</li>",
     "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New Teleconnection – Loss Ratio Correlations tab:</strong> Find, plot and investigate correlations of loss ratio and teleconnection indices</li>",
     "</ul>",
