@@ -2,9 +2,10 @@
   "news_title": "News July 2026",
   "news_txt": [
     "<ul>",
+    "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New multi-region analysis</strong> The analysis section now features a new multi-region mode, where multiple regions can be plotted in the graph, making comparisons and drawing conclusions accross regions much easier. Watch the <a href=\"https://kdrive.infomaniak.com/app/share/840824/644d0d02-294d-427d-a120-1fb71bba9d72\" target=\"_blank\" rel=\"noopener noreferrer\">Video</a> to learn how it works.</li>",
     "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New VIIRS NDVI dataset extends MODIS</strong> The MODIS mission has been discontinued and the NDVI product in Climate Explorer is being extended by the equivalent VIIRS NDVI data.</li>",
     "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New Insurance Information tab:</strong> Access, view and download insurance information directly in ClimateExplorer</li>",
     "<li style=\"margin-bottom: 8px; line-height: 1.6;\"><strong>New Teleconnection – Loss Ratio Correlations tab:</strong> Find, plot and investigate correlations of loss ratio and teleconnection indices</li>",
     "</ul>",
-    "<p style=\"line-height: 1.6;\">Watch the introductory video here: <a href=\"https://terra-ms.com/terra-climateexplorer-lr-tab/\" target=\"_blank\" rel=\"noopener noreferrer\">https://terra-ms.com/terra-climateexplorer-lr-tab/</a></p>"  ]
+    "<p style=\"line-height: 1.6;\">Watch the introductory video for the Loss Ratio Correlations tab here: <a href=\"https://terra-ms.com/terra-climateexplorer-lr-tab/\" target=\"_blank\" rel=\"noopener noreferrer\">https://terra-ms.com/terra-climateexplorer-lr-tab/</a></p>"  ]
 }
